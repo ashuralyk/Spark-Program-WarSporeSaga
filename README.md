@@ -16,8 +16,8 @@ A fully on-chain roguelike card game for CKB
 - [ ] Documentation about three milestones outlook
 
 3. Marketing Part
-- [ ] Game telegram group creation
-- [ ] Telegram group welcoming & guide bot
+- [x] Game telegram group creation
+- [x] Telegram group welcoming & guide bot
 - [ ] Brief introduction article as a portal to telegram on Nervos Talk
 - [ ] Group maintenance & engagement
 - [ ] Marketing report

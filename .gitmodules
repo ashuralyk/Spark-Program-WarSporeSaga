@@ -1,3 +1,6 @@
 [submodule "svg-renderer"]
 	path = svg-renderer
 	url = https://github.com/spore-war/svg-renderer
+[submodule "telegram-bot"]
+	path = telegram-bot
+	url = https://github.com/spore-war/telegram-bot
