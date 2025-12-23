@@ -18,7 +18,7 @@ A fully on-chain roguelike card game for CKB
 3. Marketing Part
 - [x] Game telegram group creation (name is @warsporesaga)
 - [x] Telegram group welcoming & guide bot
-- [ ] Brief introduction article as a portal to telegram on Nervos Talk
+- [x] Brief introduction article as a portal to telegram on Nervos Talk
 - [ ] Group maintenance & engagement
 - [ ] Marketing report
 
